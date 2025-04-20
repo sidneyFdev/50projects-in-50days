@@ -20,8 +20,8 @@ Cada dia, um projeto diferente – sem pular!
 | 01  | Expanding Cards               | [Ver](./expanding_cards)     | ✔️ Concluído       |
 | 02  | Progress Steps                | [Ver](./progress_steps)      | ✔️ Concluído     |
 | 03  | Rotating Navigation Animation | [Ver](./rotating_navigation_animation)  | ✔️ Concluído     |
-| 04  | Hidden Search Widget          | [Ver](./hidden_search_widget) | ⌛ Em construção    |
-| 05  | Blurry Loading                | 🚧 Não desenvolvido                | ❌ Não iniciado     |
+| 04  | Hidden Search Widget          | [Ver](./hidden_search_widget) | ✔️ Concluído    |
+| 05  | Blurry Loading                | [Ver](./blurry_loading)               | ⌛ Em construção    |
 | 06  | Scroll Animation              | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 07  | Split Landing Page            | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 08  | Form Wave                     | 🚧 Não desenvolvido                | ❌ Não iniciado     |

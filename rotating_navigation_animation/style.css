@@ -1,139 +1,138 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    overflow-x: hidden;
-    background-color: #33003c;
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+  background-color: #33003c;
 }
 
 .container {
-    background-color: #fffeba;
-    display: flex;
-    align-items: center;
-    min-height: 100vh;
-    width: 100vw;
-    flex-direction: column;
-    transition: transform 0.4s linear;
-    transform-origin: top left;
+  background-color: #fffeba;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  width: 100vw;
+  flex-direction: column;
+  transition: transform 0.4s linear;
+  transform-origin: top left;
 }
 
 .container.show-menu {
-    transform: rotate(-15deg);
+  transform: rotate(-15deg);
 }
 
 .menu_bar_container {
-    position: fixed;
-    left: -100px;
-    top: -100px;
+  position: fixed;
+  left: -100px;
+  top: -100px;
 }
 
 .circle {
-    background-color: #651773;
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-    position: relative;
-    transition: transform 0.4s linear;
+  background-color: #651773;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+  transition: transform 0.4s linear;
 }
 
 .container.show-menu .circle {
-    transform: rotate(-70deg)
+  transform: rotate(-70deg);
 }
 
-.container button{
-    border: 0;
-    background: transparent;
-    color: white;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    height: 100px;
-    font-size: 26px;
-    cursor: pointer;
+.container button {
+  border: 0;
+  background: transparent;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100px;
+  font-size: 26px;
+  cursor: pointer;
 }
 
-.container button:focus{
-    outline: none;
+.container button:focus {
+  outline: none;
 }
 
 .container button#open {
-    left: 60%;
+  left: 60%;
 }
 
 .container button#close {
-    top: 60%;
-    transform: rotate(90deg);
-    transform-origin: top left;
+  top: 60%;
+  transform: rotate(90deg);
+  transform-origin: top left;
 }
 
 .content {
-    max-width: 960px;
-    padding: 40px 0;
+  max-width: 960px;
+  padding: 40px 0;
 }
 
-.content h1{
-    margin-bottom: 5px;
-    font-size: 36px;
+.content h1 {
+  margin-bottom: 5px;
+  font-size: 36px;
 }
 
-.content small{
-    margin-bottom: 10px;
-    color: #333;
-    font-size: 20px;
+.content small {
+  margin-bottom: 10px;
+  color: #333;
+  font-size: 20px;
 }
 
 .content p {
-    margin: 30px 0;
-    line-height: 24px;
-    font-size: 18px;
+  margin: 30px 0;
+  line-height: 24px;
+  font-size: 18px;
 }
 
 .content h2 {
-    margin: 20px 0;
+  margin: 20px 0;
 }
 
-
 img {
-    width: 100%;
+  width: 100%;
 }
 
 nav {
-    position: fixed;
-    bottom: 20px;
-    left: 20px;
-    z-index: -1;
-    color: white;
-    transform: translateX(-200px);
-    transition: transform 0.4s linear;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: -1;
+  color: white;
+  transform: translateX(-200px);
+  transition: transform 0.4s linear;
 }
 
 .container.show-menu + nav {
-    transform: translateX(0);
+  transform: translateX(0);
 }
 
 nav ul {
-    list-style-type: none;
-    font-size: 24px;
+  list-style-type: none;
+  font-size: 24px;
 }
 
 nav ul li {
-    padding: 20px 0;
+  padding: 20px 0;
 }
 
-nav ul li i{
-    margin-right: 10px;
+nav ul li i {
+  margin-right: 10px;
 }
 
 nav ul li + li {
-    transform: translateX(15px);
+  transform: translateX(15px);
 }
 
-nav ul li + li + li{
-    transform: translateX(30px);
+nav ul li + li + li {
+  transform: translateX(30px);
 }
