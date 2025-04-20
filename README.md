@@ -17,10 +17,10 @@ Cada dia, um projeto diferente – sem pular!
 
 | Dia | Projeto                       | 🔗 Link                            | 🧠 Status          |
 |-----|-------------------------------|------------------------------------|--------------------|
-| 01  | Expanding Cards               | [Ver](./day_1_expanding_cards)     | ✔️ Concluído       |
-| 02  | Progress Steps                | [Ver](./day_2_progress_steps)      | ✔️ Concluído     |
-| 03  | Rotating Navigation Animation | [Ver](./day_3_rotating_navigation_animation)                | ⌛ Em construção     |
-| 04  | Hidden Search Widget          | 🚧 Não desenvolvido                | ❌ Não iniciado     |
+| 01  | Expanding Cards               | [Ver](./expanding_cards)     | ✔️ Concluído       |
+| 02  | Progress Steps                | [Ver](./progress_steps)      | ✔️ Concluído     |
+| 03  | Rotating Navigation Animation | [Ver](./rotating_navigation_animation)  | ✔️ Concluído     |
+| 04  | Hidden Search Widget          | [Ver](./hidden_search_widget) | ⌛ Em construção    |
 | 05  | Blurry Loading                | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 06  | Scroll Animation              | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 07  | Split Landing Page            | 🚧 Não desenvolvido                | ❌ Não iniciado     |
