@@ -21,8 +21,8 @@ Cada dia, um projeto diferente – sem pular!
 | 02  | Progress Steps                | [Ver](./progress_steps)      | ✔️ Concluído     |
 | 03  | Rotating Navigation Animation | [Ver](./rotating_navigation_animation)  | ✔️ Concluído     |
 | 04  | Hidden Search Widget          | [Ver](./hidden_search_widget) | ✔️ Concluído    |
-| 05  | Blurry Loading                | [Ver](./blurry_loading)               | ⌛ Em construção    |
-| 06  | Scroll Animation              | 🚧 Não desenvolvido                | ❌ Não iniciado     |
+| 05  | Blurry Loading                | [Ver](./blurry_loading)               | ✔️ Concluído    |
+| 06  | Scroll Animation              | [Ver](./scroll_animation)                 | ⌛ Em construção      |
 | 07  | Split Landing Page            | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 08  | Form Wave                     | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 09  | Sound Board                   | 🚧 Não desenvolvido                | ❌ Não iniciado     |
