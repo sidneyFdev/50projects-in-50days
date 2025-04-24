@@ -22,8 +22,8 @@ Cada dia, um projeto diferente – sem pular!
 | 03  | Rotating Navigation Animation | [Ver](./rotating_navigation_animation)  | ✔️ Concluído     |
 | 04  | Hidden Search Widget          | [Ver](./hidden_search_widget) | ✔️ Concluído    |
 | 05  | Blurry Loading                | [Ver](./blurry_loading)               | ✔️ Concluído    |
-| 06  | Scroll Animation              | [Ver](./scroll_animation)                 | ⌛ Em construção      |
-| 07  | Split Landing Page            | 🚧 Não desenvolvido                | ❌ Não iniciado     |
+| 06  | Scroll Animation              | [Ver](./scroll_animation)                 | ✔️ Concluído      |
+| 07  | Split Landing Page            | [Ver](./split_landing_page)              | ⌛ Em construção     |
 | 08  | Form Wave                     | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 09  | Sound Board                   | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 10  | Dad Jokes                     | 🚧 Não desenvolvido                | ❌ Não iniciado     |
@@ -69,9 +69,7 @@ Cada dia, um projeto diferente – sem pular!
 | 50  | Insect Catch Game             | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 
 
-
-
-> 📈 Atualizado em: `21/04/2025`
+> 📈 Atualizado em: `23/04/2025`
 
 ---
 
@@ -92,6 +90,11 @@ Cada dia, um projeto diferente – sem pular!
 ✔️ Ganhar ritmo e consistência.  
 ✔️ Construir um portfólio com projetos práticos.  
 ✔️ Se divertir!
+
+__
+## Fonte do conteúdo
+
+[50 Projects in 50 Days - Udemy](https://www.udemy.com/course/50-projects-50-days/)
 
 ---
 
