@@ -23,8 +23,8 @@ Cada dia, um projeto diferente – sem pular!
 | 04  | Hidden Search Widget          | [Ver](./hidden_search_widget) | ✔️ Concluído    |
 | 05  | Blurry Loading                | [Ver](./blurry_loading)               | ✔️ Concluído    |
 | 06  | Scroll Animation              | [Ver](./scroll_animation)                 | ✔️ Concluído      |
-| 07  | Split Landing Page            | [Ver](./split_landing_page)              | ⌛ Em construção     |
-| 08  | Form Wave                     | 🚧 Não desenvolvido                | ❌ Não iniciado     |
+| 07  | Split Landing Page            | [Ver](./split_landing_page)              | ✔️ Concluído    |
+| 08  | Form Wave                     | 🚧 Não desenvolvido                | ⌛ Em construção     |
 | 09  | Sound Board                   | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 10  | Dad Jokes                     | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 11  | Event Keycodes                | 🚧 Não desenvolvido                | ❌ Não iniciado     |
@@ -69,7 +69,7 @@ Cada dia, um projeto diferente – sem pular!
 | 50  | Insect Catch Game             | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 
 
-> 📈 Atualizado em: `23/04/2025`
+> 📈 Atualizado em: `24/04/2025`
 
 ---
 
