@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root{
+    --background-default-color: rgb(35, 86, 95);
+    --background-focus-color: rgb(48, 121, 134);
+    --text-color: rgb(190, 190, 190);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    font-family: 'Muli', sans-serif;
+    color: var(--text-color);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: var(--background-default-color)
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    padding: 50px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    min-width: 300px;
+    text-align: center;
+}
+
+.form-container {
+    margin: 40px 0;
+    display: flex;
+    position: relative
+}
+
+.form-container input {
+    background: none;
+    border-width: 0px;
+    border-bottom-width: 2px;
+    border-color: var(--background-default-color);
+    width: 100%;
+    color: var(--text-color);
+    padding: 10px 0px;
+    font-size: 16px
+}
+
+.form-container input:focus {
+    outline: none;
+    border-color: var(--background-focus-color);
+
+}
+
+.form-container label {
+    position: absolute;
+    transform: translateY(50%);
+    transform-origin: center;
+    color: var(--background-default-color);
+    user-select: none;
+    z-index: inherit;
+    cursor: text;
+}
+
+.login-btn {
+    width: 100%;
+    margin: 14px 0px 40px 0;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: var(--background-default-color);
+    border: 0px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.login-btn:active {
+    outline: none;
+    transform: scale(0.97)
+}
+
+.form-container label span {
+    display: inline-block;
+    font-size: 18px;
+    transition: 0.3s cubic-bezier(0.075, 0.82, 0.165, 1)
+}
+
+.form-container input:focus + label span, 
+.form-container input:valid + label span {
+    color: var(--background-focus-color);
+    transform: translateY(-30px);
+    cursor: auto;
+}
+
+.site-form p {
+    font-size: 14px;
+    word-spacing: 1px;
+}
+
+.site-form a {
+    text-decoration: none;
+    color: var(--background-default-color);
+}
+
+.site-form a:hover {
+    color: var(--background-focus-color)
+}

@@ -24,8 +24,8 @@ Cada dia, um projeto diferente – sem pular!
 | 05  | Blurry Loading                | [Ver](./blurry_loading)               | ✔️ Concluído    |
 | 06  | Scroll Animation              | [Ver](./scroll_animation)                 | ✔️ Concluído      |
 | 07  | Split Landing Page            | [Ver](./split_landing_page)              | ✔️ Concluído    |
-| 08  | Form Wave                     | 🚧 Não desenvolvido                | ⌛ Em construção     |
-| 09  | Sound Board                   | 🚧 Não desenvolvido                | ❌ Não iniciado     |
+| 08  | Form Wave                     | [Ver](./form_wave/)                | ✔️ Concluído     |
+| 09  | Sound Board                   | 🚧 Não desenvolvido                | ⌛ Em construção     |
 | 10  | Dad Jokes                     | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 11  | Event Keycodes                | 🚧 Não desenvolvido                | ❌ Não iniciado     |
 | 12  | Faq Collapse                  | 🚧 Não desenvolvido                | ❌ Não iniciado     |
